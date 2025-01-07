@@ -1,7 +1,10 @@
 # OSM-roads_style-for-QGIS
+
 QML （QGIS 样式文件） 文件可帮助用户在 QGIS 中快速配置 **道路数据**
 
 Some QML (QGIS style file) files help users quickly configure roads data in QGIS
+
+![这是图片](https://github.com/OpenQGIS/OSM-roads_style-for-QGIS/blob/main/OSM-roads_style-for-QGIS.png "OSM-roads_style-for-QGIS")
 
 ### 使用方法：
 
