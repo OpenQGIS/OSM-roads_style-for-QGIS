@@ -31,10 +31,12 @@ Some QML (QGIS style file) files help users quickly configure roads data in QGIS
   </a>
 </div>
 
+> 道路均为白色，隧道为虚线
+
+
 ### 三色道路
 <div style="text-align: center;">
   <a href="https://github.com/OpenQGIS/OSM-roads_style-for-QGIS/blob/main/%E4%B8%89%E8%89%B2%E9%81%93%E8%B7%AF/%E4%B8%89%E8%89%B2%E9%81%93%E8%B7%AF%E5%9C%B0%E5%9B%BE%E6%A0%B7%E5%BC%8F.qml" target="_blank">
     <img src="https://github.com/OpenQGIS/OSM-roads_style-for-QGIS/blob/main/%E4%B8%89%E8%89%B2%E9%81%93%E8%B7%AF/%E4%B8%89%E8%89%B2%E9%81%93%E8%B7%AF%E5%9C%B0%E5%9B%BE%E6%A0%B7%E5%BC%8F.png" style="width: 70%;" title="三色道路样式.qml">
   </a>
 </div>
-
