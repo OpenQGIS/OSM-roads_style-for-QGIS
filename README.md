@@ -17,7 +17,7 @@ Some QML (QGIS style file) files help users quickly configure roads data in QGIS
 ### （English)How to use:
 1. Download the corresponding **shp.zip** from  ***https://download.geofabrik.de/***  and unzip it <br>
 2. Load **gis_osm_roads_free_1.shp** in qgis <br>
-3. Right-click on the layer, find **[Properties>>], [Symbolization>> [Style>> [Load Style]** in order <br>
+3. Right-click on the layer, find **[Properties>>], [Symbolization]>> [Style]>> [Load Style]** in order <br>
 4. Select the **QML file** and click OK
 <br>
 
