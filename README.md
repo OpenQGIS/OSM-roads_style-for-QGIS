@@ -25,6 +25,16 @@ Some QML (QGIS style file) files help users quickly configure roads data in QGIS
 
 ## 样式预览
 ### 白色道路
-![这是图片](https://github.com/OpenQGIS/OSM-roads_style-for-QGIS/blob/main/%E7%99%BD%E8%89%B2%E9%81%93%E8%B7%AF/%E7%99%BD%E8%89%B2%E9%81%93%E8%B7%AF%EF%BC%88%E8%99%9A%E7%BA%BF%E9%9A%A7%E9%81%93%EF%BC%89-100%25%E4%B8%8D%E9%80%8F%E6%98%8E.png "白色道路")
+<div style="text-align: center;">
+  <a href="https://github.com/OpenQGIS/OSM-roads_style-for-QGIS/blob/main/%E7%99%BD%E8%89%B2%E9%81%93%E8%B7%AF/%E7%99%BD%E8%89%B2%E9%81%93%E8%B7%AF%EF%BC%88%E8%99%9A%E7%BA%BF%E9%9A%A7%E9%81%93%EF%BC%89-100%25%E4%B8%8D%E9%80%8F%E6%98%8E.qml" target="_blank">
+    <img src="https://github.com/OpenQGIS/OSM-roads_style-for-QGIS/blob/main/%E7%99%BD%E8%89%B2%E9%81%93%E8%B7%AF/%E7%99%BD%E8%89%B2%E9%81%93%E8%B7%AF%EF%BC%88%E8%99%9A%E7%BA%BF%E9%9A%A7%E9%81%93%EF%BC%89-100%25%E4%B8%8D%E9%80%8F%E6%98%8E.png" style="width: 80%;" title="白色道路样式">
+  </a>
+</div>
+
 ### 三色道路
-![这是图片](https://github.com/OpenQGIS/OSM-roads_style-for-QGIS/blob/main/%E4%B8%89%E8%89%B2%E9%81%93%E8%B7%AF/%E4%B8%89%E8%89%B2%E9%81%93%E8%B7%AF%E5%9C%B0%E5%9B%BE%E6%A0%B7%E5%BC%8F.png "三色道路")
+<div style="text-align: center;">
+  <a href="https://github.com/OpenQGIS/OSM-roads_style-for-QGIS/blob/main/%E4%B8%89%E8%89%B2%E9%81%93%E8%B7%AF/%E4%B8%89%E8%89%B2%E9%81%93%E8%B7%AF%E5%9C%B0%E5%9B%BE%E6%A0%B7%E5%BC%8F.qml" target="_blank">
+    <img src="https://github.com/OpenQGIS/OSM-roads_style-for-QGIS/blob/main/%E4%B8%89%E8%89%B2%E9%81%93%E8%B7%AF/%E4%B8%89%E8%89%B2%E9%81%93%E8%B7%AF%E5%9C%B0%E5%9B%BE%E6%A0%B7%E5%BC%8F.png" style="width: 80%;" title="三色道路样式">
+  </a>
+</div>
+
