@@ -31,7 +31,8 @@ Some QML (QGIS style file) files help users quickly configure roads data in QGIS
   </a>
 </div>
 
-> 道路均为白色，隧道为虚线
+> 1. 道路均为白色，隧道为虚线；
+> 2. 且设置有自动比例。
 
 
 ### 三色道路
